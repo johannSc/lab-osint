@@ -14,11 +14,17 @@
 
 `sudo apt upgrade --yes`
 
-* Installation de turbolehe:
+## Outils classiques
+
+### Turbolehe:
+
+Turbolehe est une extension de l'outil holehe, qui sert à rechercher des informations depuis un email. 
+
+Pour l'installation sous Kali, il est nécessaire d'avoir plusieurs outils:
 
 `sudo apt install pip3`
 
-`sudo apt install slugify`
+`sudo pip3 install python-slugify`
 
 `sudo pip3 install holehe`
 
@@ -28,7 +34,20 @@ Toutes les dépendances nécessaires à Turbolehe sont déployées, on va instal
 
 puis se rendre dans le répertoire nouvellement créé, Turbolehe
 
-## Utilisation de Turbolehe
+Enfin pour une recherche, c'est très simple:
+
+`python3 turbolehe.py NOM PRENOM`
+
+On peut cibler un domaine:
+
+`python turbolehe.py NOM PRENOM -B`
+
+### ihavebeenpawnd
+
+Une base de données des emails apparaissant dans des listes sur les blackmarkets. Si on est dedans, c'est mauvais signe...
+
+https://haveibeenpwned.com/
+
 
 
 

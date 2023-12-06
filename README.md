@@ -11,12 +11,15 @@
 * Puis une fois installé, mise à jour des dernièrs paquets:
 
 `sudo apt update`
+
 `sudo apt upgrade --yes`
 
 * Installation de turbolehe:
 
 `sudo apt install pip3`
+
 `sudo apt install slugify`
+
 `sudo pip3 install holehe`
 
 Toutes les dépendances nécessaires à Turbolehe sont déployées, on va installer l'outil depuis son dépot git:

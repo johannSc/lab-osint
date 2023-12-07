@@ -1,7 +1,5 @@
 # lab-osint
 
-[https://korben.info/page/2](https://korben.info/outil-turbolehe-ameliorer-enquetes-osint-generer-rapport-holehe.html)https://korben.info/outil-turbolehe-ameliorer-enquetes-osint-generer-rapport-holehe.html
-
 ## Préparation du lab
 
 * Installation de Kali Linux: iso téléchargeable (https://www.kali.org/get-kali/#kali-platforms)

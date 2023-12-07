@@ -56,6 +56,10 @@ Une base de données des emails apparaissant dans des listes sur les blackmarket
 
 https://haveibeenpwned.com/
 
+## Exercice
+
+D'après mon Nom/Prénom, trouvez des services accessibles sur Internet auxquels je suis abonné
+
 
 
 

@@ -20,7 +20,7 @@
 
 Un excellent outil qui sert à rechercher des informations depuis un email. 
 
-Pour l'installation:
+* Pour l'installation:
 
 `sudo apt install pip3`
 
@@ -28,7 +28,7 @@ Pour l'installation:
 
 `sudo pip3 install holehe`
 
-Puis pour l'utilisation:
+* Puis pour l'utilisation:
 
 `holehe test@gmail.com`
 
@@ -36,13 +36,13 @@ Puis pour l'utilisation:
 
 Turbolehe est une extension qui se greffe sur Holehe et qui va vous permettre d’améliorer vos enquêtes OSINT grâce à une recherche pas nom + prénom, ainsi que de la génération de rapports. 
 
-Toutes les dépendances nécessaires à Turbolehe sont déployées, on va installer l'outil depuis son dépot git:
+* Toutes les dépendances nécessaires à Turbolehe sont déployées, on va installer l'outil depuis son dépot git:
 
 `git clone https://github.com/UserCr4ig/Turbolehe`
 
 puis se rendre dans le répertoire nouvellement créé, Turbolehe
 
-Enfin pour une recherche, c'est très simple:
+* Enfin pour une recherche, c'est très simple:
 
 `python3 turbolehe.py NOM PRENOM`
 

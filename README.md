@@ -12,7 +12,7 @@
 
 `sudo apt upgrade --yes`
 
-## Outils classiques
+## Emails
 
 ### Holehe
 
@@ -54,9 +54,25 @@ Une base de données des emails apparaissant dans des listes sur les blackmarket
 
 https://haveibeenpwned.com/
 
+## Nom de domaine
+
+### Dig / whois
+
+Un domaine regorge d'informations importantes. Bien souvent c'est caché par l'opérateur. Sous Kali on peut utiliser l'outil dig
+
+Exemple: `dig scourzic.net`
+
+Whois est également accessible depuis plusieurs sites, pour obtenir des informations publiques.
+
+### Onyphe
+
+Ce site va plus loins, notament sur le scan de sous domaines: https://www.onyphe.io/
+
 ## Exercice
 
-D'après mon Nom/Prénom, trouvez des services accessibles sur Internet auxquels je suis abonné
+D'après mon site, trouvez des informations sur un autre sous domaine que j'héberge, qui lui même vous mènera à mon adresse email.
+
+A partir de celle ci vous effectuerez une recherche pour trouver un ou plusieurs service(s) auxquels je suis abonné.
 
 
 

@@ -42,7 +42,7 @@ On peut cibler un domaine:
 
 `python turbolehe.py NOM PRENOM -B`
 
-### ihavebeenpawnd
+### haveibeenpwned
 
 Une base de données des emails apparaissant dans des listes sur les blackmarkets. Si on est dedans, c'est mauvais signe...
 

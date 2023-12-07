@@ -16,17 +16,25 @@
 
 ## Outils classiques
 
-### Turbolehe:
+### Holehe
 
-Turbolehe est une extension de l'outil holehe, qui sert à rechercher des informations depuis un email. 
+Un excellent outil qui sert à rechercher des informations depuis un email. 
 
-Pour l'installation sous Kali, il est nécessaire d'avoir plusieurs outils:
+Pour l'installation:
 
 `sudo apt install pip3`
 
 `sudo pip3 install python-slugify`
 
 `sudo pip3 install holehe`
+
+Puis pour l'utilisation:
+
+`holehe test@gmail.com`
+
+### Turbolehe:
+
+Turbolehe est une extension qui se greffe sur Holehe et qui va vous permettre d’améliorer vos enquêtes OSINT grâce à une recherche pas nom + prénom, ainsi que de la génération de rapports. 
 
 Toutes les dépendances nécessaires à Turbolehe sont déployées, on va installer l'outil depuis son dépot git:
 

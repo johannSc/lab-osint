@@ -86,7 +86,7 @@ Whois est également accessible depuis plusieurs sites, pour obtenir des informa
 
 Ce site va plus loins, notament sur le scan de sous domaines: https://www.onyphe.io/
 
-## Exercice
+$${\color{green}TP}$$
 
 D'après mon site, trouvez des informations sur un autre sous domaine que j'héberge, qui lui même vous mènera à mon adresse email.
 

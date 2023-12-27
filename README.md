@@ -84,7 +84,7 @@ Whois est également accessible depuis plusieurs sites, pour obtenir des informa
 
 ### Onyphe
 
-Ce site va plus loins, notament sur le scan de sous domaines: https://www.onyphe.io/
+Ce site va plus loin, notament sur le scan de sous domaines: https://www.onyphe.io/
 
 $${\color{green}TP}$$
 
